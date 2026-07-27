@@ -1,3 +1,5 @@
 Se agregó modulo de auditoria para los estudiantes
 Se corrigieron bugs de registro
 Se optimizaron consultas
+
+Elianny le colocó a la ventana rojo
